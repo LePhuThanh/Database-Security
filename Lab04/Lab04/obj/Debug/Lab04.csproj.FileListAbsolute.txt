@@ -1,0 +1,11 @@
+C:\Users\Le Phu Thanh\Desktop\Lab04\Lab04\Lab04\bin\Debug\Lab04.exe.config
+C:\Users\Le Phu Thanh\Desktop\Lab04\Lab04\Lab04\bin\Debug\Lab04.exe
+C:\Users\Le Phu Thanh\Desktop\Lab04\Lab04\Lab04\bin\Debug\Lab04.pdb
+C:\Users\Le Phu Thanh\Desktop\Lab04\Lab04\Lab04\obj\Debug\Lab04.csprojResolveAssemblyReference.cache
+C:\Users\Le Phu Thanh\Desktop\Lab04\Lab04\Lab04\obj\Debug\Lab04.Form1.resources
+C:\Users\Le Phu Thanh\Desktop\Lab04\Lab04\Lab04\obj\Debug\Lab04.Management.resources
+C:\Users\Le Phu Thanh\Desktop\Lab04\Lab04\Lab04\obj\Debug\Lab04.Properties.Resources.resources
+C:\Users\Le Phu Thanh\Desktop\Lab04\Lab04\Lab04\obj\Debug\Lab04.csproj.GenerateResource.Cache
+C:\Users\Le Phu Thanh\Desktop\Lab04\Lab04\Lab04\obj\Debug\Lab04.csproj.CoreCompileInputs.cache
+C:\Users\Le Phu Thanh\Desktop\Lab04\Lab04\Lab04\obj\Debug\Lab04.exe
+C:\Users\Le Phu Thanh\Desktop\Lab04\Lab04\Lab04\obj\Debug\Lab04.pdb
